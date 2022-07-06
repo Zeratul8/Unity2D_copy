@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collider_Left
+  - Collider_Right
+  - Collider_Bottom
+  - Fire
+  - Monster
+  - Magnet
+  - Invincible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Far
+    uniqueID: 3607392113
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: VFX
+    uniqueID: 2936827089
+    locked: 0
